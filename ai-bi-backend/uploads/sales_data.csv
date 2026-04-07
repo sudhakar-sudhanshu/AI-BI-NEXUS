@@ -1,0 +1,11 @@
+OrderID,Date,Customer,Product,Category,City,Sales,Profit,Quantity
+1001,2024-01-01,Rahul,Mobile,Electronics,Pune,20000,3000,2
+1002,2024-01-02,Amit,Laptop,Electronics,Mumbai,50000,8000,1
+1003,2024-01-03,Sneha,Shirt,Clothing,Delhi,1500,300,3
+1004,2024-01-04,Riya,Shoes,Clothing,Pune,3000,500,2
+1005,2024-01-05,Karan,TV,Electronics,Mumbai,40000,6000,1
+1006,2024-01-06,Anjali,Bag,Accessories,Delhi,2000,400,2
+1007,2024-01-07,Neha,Watch,Accessories,Pune,2500,600,1
+1008,2024-01-08,Rohit,Tablet,Electronics,Mumbai,15000,2500,1
+1009,2024-01-09,Pooja,Jeans,Clothing,Delhi,1800,350,2
+1010,2024-01-10,Arjun,Headphones,Electronics,Pune,3000,700,3
