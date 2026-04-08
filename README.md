@@ -147,21 +147,36 @@ uvicorn main:app --reload
 
 ## Screenshots
 
-(Add your images inside a screenshots folder)
+### Dashboard
 
-Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](ai-bi-frontend/screenshot/dashboard.png)
 
-Visualization
-![Visualization](screenshots/visualization.png)
+### Data Upload
 
-AI Chat
-![AI Chat](screenshots/ai-chat.png)
+![Upload](ai-bi-frontend/screenshot/upload.png)
 
-Reports
-![Reports](screenshots/reports.png)
+### Data Visualization
 
----
+![Visualization](ai-bi-frontend/screenshot/Visualization.png)
+
+### AI Chat
+
+![AI Chat](ai-bi-frontend/screenshot/ai-chat.png)
+
+### Reports
+
+![Reports](ai-bi-frontend/screenshot/reports.png)
+
+### Power BI
+
+![Power BI](ai-bi-frontend/screenshot/power-Bi.png)
+
+### Settings
+
+![Settings](ai-bi-frontend/screenshot/settings.png)
+
+
+
 
 ## What I learned
 
